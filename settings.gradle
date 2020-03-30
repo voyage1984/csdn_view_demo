@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='csdn_view_demo'
